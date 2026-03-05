@@ -3,8 +3,11 @@ Anti-Theft System using Arduino
   * Overview
 
  This project is a simple Anti-Theft Alarm System built using an Arduino microcontroller and an accelerometer sensor.
+ 
  The system detects movement or vibration and triggers an alarm when unauthorized motion is detected.
+ 
  It is designed as a basic embedded system project to demonstrate motion detection and alarm triggering using Arduino.
+ 
 
   * Hardware Components
     
@@ -23,6 +26,7 @@ Anti-Theft System using Arduino
  Jumper wires
  
  USB cable for power
+ 
 
   * How the System Works
  1. The accelerometer continuously measures movement on the X, Y, and Z axes.
@@ -34,6 +38,7 @@ Anti-Theft System using Arduino
      The LEDs turn on
     
  4. This indicates a potential theft or unauthorized movement.
+
 
   * Pin Connections
   Component	            Arduino Pin
@@ -50,6 +55,7 @@ LED 2	                    D6
 
 Buzzer	                  D3
 
+
   * Features
     
  Motion detection using accelerometer 
@@ -59,6 +65,7 @@ Buzzer	                  D3
  Visual alert using LEDs
  
  Simple and low-cost hardware design
+ 
 
   * Applications
     
