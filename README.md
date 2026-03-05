@@ -9,6 +9,7 @@ Anti-Theft System using Arduino
   * Hardware Components
     
  Arduino Uno
+ 
  Accelerometer Sensor (ADXL335 or similar)
  Buzzer
  2 LEDs
